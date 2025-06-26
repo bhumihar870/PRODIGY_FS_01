@@ -54,7 +54,7 @@ PRODIGY_FS_01/
 
 **Shubham Sharma**
 Frontend Developer Intern
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
 
 ---
 
